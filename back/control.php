@@ -1,4 +1,6 @@
 <?php
+/*Utilice una estructura condicional if-else para verificar si un número es
+positivo, negativo o cero.*/
 $numero = 78;
 
 if($numero > 0){
